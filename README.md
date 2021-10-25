@@ -1,2 +1,2 @@
 # My-Site
-This is my first  CSS  site.
+This is my first site in front-end development.
